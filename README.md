@@ -23,7 +23,7 @@
 
 ## Mes intérêts :
 - 💡 J'aime créer des applications web innovantes.
-- 📚 Toujours en train d'apprendre de nouvelles technologies.
+- 📚 Toujours en train d'apprendre de nouvelles compétences et rester à jour sur les technologies.
 
 ## Statistiques GitHub 📊
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=radical)
