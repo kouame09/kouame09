@@ -6,10 +6,10 @@
 ## Je suis passionné de Technologie et je me spécialise en tant que Développeur FullStack Junior. 👨‍💻
 
 ### Technologies étudiées :
-- 🌐 MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- 💻 JavaScript
-- 💻 PHP, MySQL
-- 🖥️ HTML5, CSS3, Bootstrap
+- ✅ MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- ✅ JavaScript
+- ✅ PHP, MySQL
+- ✅ HTML5, CSS3, Bootstrap
 
 
 ## Quelques projets 🚀
