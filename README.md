@@ -1,16 +1,32 @@
-### Hi there 👋
+![Bannière](https://www.keycdn.com/img/support/full-stack-development.png)
 
-<!--
-**kouame09/kouame09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Salut !👋 Je suis Prince Kouamé
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Je suis passionné par le développement web et je me spécialise en tant que Développeur FullStack Junior, avec une affinité particulière pour les technologies MERN Stack, PHP, MySQL, HTML5, CSS3 et Bootstrap. 👨‍💻
+
+### Technologies étudiées :
+- 🌐 MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 💻 JavaScript
+- 💻 PHP, MySQL
+- 🖥️ HTML5, CSS3, Bootstrap
+
+
+## Quelques projets 🚀
+- [Robuscode](https://princekouame.site/work/markdown-mystery-tour/) : Robuscode est un outil innovant conçu pour générer des mots de passe complexes et sécurisés. 
+- [Journal Agro](https://princekouame.site/work/nested/duvet-genius/) : Plate-forme engagée dans la promotion et le développement du secteur agricole en Côte d’Ivoire.
+
+
+### Blog ou Articles :
+- [Prince sur Hashnode](https://princekouame.hashnode.dev/) : Brève description de l'article.
+- [Prince sur Dev.to](https://dev.to/kouame09) : Brève description de l'article.
+
+## Mes intérêts :
+- 💡 J'aime créer des applications web innovantes.
+- 📚 Toujours en train d'apprendre de nouvelles technologies.
+
+## Statistiques GitHub 📊
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=radical)
+
+
+
