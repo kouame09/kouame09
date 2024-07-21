@@ -1,4 +1,4 @@
-![Bannière](https://www.keycdn.com/img/support/full-stack-development.png)
+![Bannière](https://blog.zenhub.com/wp-content/uploads/2021/09/Frame-22-min.jpg)
 
 
 # Salut !👋 Je suis Prince Kouamé
@@ -9,7 +9,7 @@
 - ✅ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - ✅ JavaScript
 - ✅ PHP, MySQL
-- ✅ HTML5, CSS3, Bootstrap
+- ✅ HTML5, CSS3, Bootstrap, Tailwind CSS
 
 
 ## Quelques projets 🚀
