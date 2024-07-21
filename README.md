@@ -3,7 +3,7 @@
 
 # Salut !👋 Je suis Prince Kouamé
 
-## Je suis passionné de Technologie et je me spécialise en tant que Développeur FullStack Junior. 👨‍💻
+## Je suis passionné de Technologie et je me spécialise en tant que Développeur Full Stack. 👨‍💻
 
 ### Technologies étudiées :
 - ✅ MERN Stack (MongoDB, Express.js, React.js, Node.js)
@@ -12,17 +12,11 @@
 - ✅ HTML5, CSS3, Bootstrap, Tailwind CSS
 
 
-## Quelques projets 🚀
-- [Robuscode](https://princekouame.site/work/markdown-mystery-tour/) : Robuscode est un outil innovant conçu pour générer des mots de passe complexes et sécurisés. 
-- [Journal Agro](https://princekouame.site/work/nested/duvet-genius/) : Plate-forme engagée dans la promotion et le développement du secteur agricole en Côte d’Ivoire.
-
-
-### Blog ou Articles :
-- [Prince sur Hashnode](https://princekouame.hashnode.dev/) : Brève description de l'article.
-- [Prince sur Dev.to](https://dev.to/kouame09) : Brève description de l'article.
+### Blog :
+- [Prince sur Hashnode](https://blog.princekouame.com/) : Brève description de l'article.
 
 ## Mes intérêts :
-- 💡 J'aime créer des applications web innovantes.
+- 💡 J'aime créer des applications innovantes.
 - 📚 Toujours en train d'apprendre de nouvelles compétences et rester à jour sur les technologies.
 
 ## Statistiques GitHub 📊
