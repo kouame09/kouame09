@@ -8,10 +8,11 @@
 ### Technologies étudiées :
 - ✅ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - ✅ Redux, Axios, Nodemon, Prisma, Mongoose
-- Postman, Thunder Client
+- ✅ Postman, Thunder Client
 - ✅ JavaScript
 - ✅ PHP, MySQL
 - ✅ HTML5, CSS3, Bootstrap, Tailwind CSS
+- ...
 
 
 ### Blog :
