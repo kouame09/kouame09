@@ -3,7 +3,7 @@
 
 # Salut !👋 Je suis Prince Kouamé
 
-## Je suis passionné de Technologie et je me spécialise en tant que Développeur Full Stack. 👨‍💻
+## Je suis passionné de Technologie et je suis spécialisé en développement Full Stack avec NodeJS principalement. 👨‍💻
 
 ### Technologies étudiées :
 - ✅ MERN Stack (MongoDB, Express.js, React.js, Node.js)
