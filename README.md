@@ -5,7 +5,7 @@
 
 ## Passionné de Technologie, je suis spécialisé en développement Full Stack avec NodeJS principalement. 
 
-### Technologies étudiées :
+### Stack :
 - ✅ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - ✅ Redux, Axios, Nodemon, Prisma, Mongoose
 - ✅ Postman, Thunder Client
@@ -16,11 +16,12 @@
 
 
 ### Blog :
-- [Prince sur Hashnode](https://blog.princekouame.com/) : Brève description de l'article.
+- [Prince sur Hashnode](https://blog.princekouame.com/) 
 
 ## Mes intérêts :
-- 💡 J'aime créer des applications innovantes.
-- 📚 Toujours en train d'apprendre de nouvelles compétences et rester à jour sur les technologies.
+- 💡 Startup, j'aime créer de la valeur.
+- 👨‍💻 Tech For Good.
+- 📚 Apprentisatissage continu.
 
 ## Statistiques GitHub 📊
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=radical)
