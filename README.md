@@ -1,17 +1,20 @@
 ![Bannière](https://blog.zenhub.com/wp-content/uploads/2021/09/Frame-22-min.jpg)
 
 
-# Salut !👋 Je suis Prince Kouamé
+# Salut !👋 
 
-## Passionné de Technologie, je suis spécialisé en développement Full Stack avec NodeJS principalement. 
+# Je suis Prince Kouamé, développeur Full Stack
 
-### Stack :
+## Je suis passionné de Technologie et d'innovation. J'aime travailler sur des projets qui ont un véritable impact sur la vie des utilisateurs.
+
+### Stacks :
+- ✅ JavaScript 
 - ✅ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - ✅ Redux, Axios, Nodemon, Prisma, Mongoose
+- ✅ Supabase, Pocketbase
 - ✅ Postman, Thunder Client
-- ✅ JavaScript
 - ✅ PHP, MySQL
-- ✅ HTML5, CSS3, Bootstrap, Tailwind CSS
+- ✅ HTML5, CSS3, Tailwind CSS, Bootstrap
 - ...
 
 
