@@ -19,7 +19,7 @@
 
 
 ### Blog :
-- [Prince sur Hashnode](https://blog.princekouame.com/) 
+- [Visitez mon blog](https://blog.princekouame.com/) 
 
 ## Mes intérêts :
 - 💡 Startup, j'aime créer de la valeur.
