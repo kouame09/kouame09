@@ -12,7 +12,7 @@ Voici quelques technologies que j'utilise régulièrement :
 
 #### Frontend :
 - **JavaScript**
-- **React.js**
+- **React**
 - **Redux**
 - **Tailwind CSS**
 - **Bootstrap**
@@ -37,7 +37,6 @@ Voici quelques technologies que j'utilise régulièrement :
 
 #### Autres :
 - **Nodemon**
-- **HTML5 / CSS3**
 
 ---
 
