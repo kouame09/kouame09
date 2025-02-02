@@ -4,10 +4,7 @@
 
 Je suis un **Software Developer & Digital Creative**, passionné par l'innovation technologique, l'ingénierie logicielle, les startups et les nouvelles technologies comme l'Intelligence Artificielle (IA), le Big Data, le digital et bien plus encore. Mon objectif est de créer des solutions numériques innovantes qui apportent de la valeur à la société.
 
-✨-----------------------------✨
-
-## 🧑‍💻 Qui suis-je ?  
-Je suis un développeur logiciel avec une solide expérience dans la création de produits numériques, l'intégration de technologies émergentes et la résolution de problèmes complexes. Je travaille principalement avec des stacks modernes pour développer des applications robustes, évolutives et performantes.
+Je travaille principalement avec des stacks modernes pour développer des applications robustes, évolutives et performantes.
 
 ✨-----------------------------✨
 
