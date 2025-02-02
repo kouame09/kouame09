@@ -3,9 +3,9 @@
 
 # Salut !👋 
 
-# Je suis Prince Kouamé, développeur Full Stack
+# Je m'appelle Prince. Je suis Software developer & digital creative 
 
-## Je suis passionné de Technologie et d'innovation. J'aime travailler sur des projets qui ont un véritable impact sur la vie des utilisateurs.
+## Je suis passionné d'ingénierie logicielle, d'innovation technologique, de startups, de nouvelles technologies (IA, Big Data...) et de digital.
 
 ### Stacks :
 - ✅ JavaScript 
@@ -19,7 +19,7 @@
 
 
 ### Blog :
-- [Visitez mon blog](https://blog.princekouame.com/) 
+- [Visitez mon blog](https://www.princekouame.com/blog) 
 
 ## Mes intérêts :
 - 💡 Startup, j'aime créer de la valeur.
