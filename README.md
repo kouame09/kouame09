@@ -6,7 +6,7 @@ Je suis un **Software Developer & Digital Creative**, passionné par l'innovatio
 
 Je travaille principalement avec des stacks modernes pour développer des applications robustes, évolutives et performantes.
 
-✨-----------------------------✨
+
 
 ### Mes stacks techniques :  
 ✨-----------------------------✨
@@ -50,19 +50,6 @@ Je travaille principalement avec des stacks modernes pour développer des applic
 
 ✨-----------------------------✨
 
-### 🚀 Projets en vedette :  
-✨-----------------------------✨
-
-#### 1. [Nom du projet](#)
-- Description rapide du projet : Une application web permettant aux utilisateurs de gérer leurs tâches quotidiennes.
-- Technologies utilisées : React, Node.js, MongoDB.
-
-#### 2. [Nom du projet](#)
-- Description rapide du projet : Une plateforme de partage de fichiers basée sur Firebase.
-- Technologies utilisées : Firebase, Tailwind CSS.
-
-✨-----------------------------✨
-
 ### 📈 Statistiques GitHub :  
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=radical)](https://github.com/kouame09)
 
@@ -91,4 +78,3 @@ Je suis toujours ouvert à collaborer sur des projets intéressants ou à discut
 ✨-----------------------------✨
 
 Merci d'avoir pris le temps de lire mon profil ! 😊  
-N'hésitez pas à explorer mes projets et à me faire part de vos retours. 🚀
