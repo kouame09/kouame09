@@ -1,4 +1,4 @@
-![Bannière](https://blog.zenhub.com/wp-content/uploads/2021/09/Frame-22-min.jpg)
+![Bannière]()
 
 # Salut, je m'appelle **Prince**! 👋  
 
