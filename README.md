@@ -2,11 +2,11 @@
 
 # Salut, je m'appelle **Prince**! 👋  
 
-Je suis un **Software Developer & Digital Creative**, passionné par l'innovation technologique, l'ingénierie logicielle, les startups et les nouvelles technologies comme l'Intelligence Artificielle (IA), le Big Data, le digital et bien plus encore. Mon objectif est de créer des solutions numériques innovantes qui apportent de la valeur à la société.
+**Software Engineering & Product Strategy** 🚀
+J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, développer et lancer des produits tech** qui réussissent.
 
-Je travaille principalement avec des stacks modernes pour développer des applications robustes, évolutives et performantes.
-
-
+💡 Passionné par la création de solutions utiles et durables.
+🤝 Ouvert aux collaborations et projets à fort impact.
 
 ### Mes stacks techniques :  
 ✨-----------------------------✨
