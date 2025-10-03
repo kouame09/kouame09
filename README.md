@@ -1,5 +1,3 @@
-![Bannière]()
-
 # Salut, je m'appelle **Prince**! 👋  
 
 **Software Engineering & Product Strategy** 🚀
@@ -38,18 +36,6 @@ J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, 
 #### Autres :
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
 
-✨-----------------------------✨
-
-### Mes intérêts :  
-💡--------------------------💡
-
-- 💡 **Startup** : J'aime créer de la valeur et résoudre des problèmes réels.
-- 👨‍💻 **Tech For Good** : Utiliser la technologie pour avoir un impact positif sur le monde.
-- 📚 **Apprentissage continu** : Je suis toujours à la recherche de nouvelles compétences et connaissances.
-- 🤖 **IA & Big Data** : Passionné par les technologies émergentes et leur potentiel.
-
-✨-----------------------------✨
-
 ### 📈 Statistiques GitHub :  
 [![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=radical)](https://github.com/kouame09)
 
@@ -61,20 +47,4 @@ J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, 
 Plonge dans mes réflexions et découvertes sur mon blog :  
 ➡️ [Visitez mon blog](https://www.princekouame.com/blog)
 
-✨-----------------------------✨
 
-### 🤝 Connectons-nous :  
-Je suis toujours ouvert à collaborer sur des projets intéressants ou à discuter de nouvelles idées. N'hésite pas à me contacter !  
-
-📧 **Email** : hello@princekouame.com  
-🔗 **LinkedIn** : [Mon profil LinkedIn](https://www.linkedin.com/in/prince-kouame/)  
-
-✨-----------------------------✨
-
-### 💡 Une pensée qui m'inspire :  
-> "La technologie n'est pas faite pour remplacer l'humain, mais pour amplifier son potentiel."  
-> — Prince Kouamé
-
-✨-----------------------------✨
-
-Merci d'avoir pris le temps de lire mon profil ! 😊  
