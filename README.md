@@ -6,7 +6,15 @@ J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, 
 💡 Passionné par la création de solutions utiles et durables.
 🤝 Ouvert aux collaborations et projets à fort impact.
 
-### Mes stacks techniques :  
+
+✨-----------------------------✨
+
+### 📝 Blog personnel :  
+Plonge dans mes réflexions et découvertes sur mon blog :  
+➡️ [Visitez mon blog](https://www.princekouame.com/blog)
+
+
+### Ma stack technique :  
 ✨-----------------------------✨
 
 #### Frontend :
@@ -41,10 +49,5 @@ J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouame09&layout=compact&theme=radical)](https://github.com/kouame09)
 
-✨-----------------------------✨
-
-### 📝 Blog personnel :  
-Plonge dans mes réflexions et découvertes sur mon blog :  
-➡️ [Visitez mon blog](https://www.princekouame.com/blog)
 
 
