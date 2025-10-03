@@ -5,7 +5,6 @@
 J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, développer et lancer des produits tech** qui réussissent.
 
 💡 Passionné par la création de solutions utiles et durables.
-
 🤝 Ouvert aux collaborations et projets à fort impact.
 
 
