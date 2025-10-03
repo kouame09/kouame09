@@ -9,7 +9,7 @@ J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, 
 🤝 Ouvert aux collaborations et projets à fort impact.
 
 
-✨-----------------------------✨
+-----------------------------
 
 ### 📝 Blog personnel :  
 Plonge dans mes réflexions et découvertes sur mon blog :  
@@ -17,7 +17,7 @@ Plonge dans mes réflexions et découvertes sur mon blog :
 
 
 ### Ma stack technique :  
-✨-----------------------------✨
+-----------------------------
 
 #### Frontend :
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
