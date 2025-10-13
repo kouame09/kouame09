@@ -1,56 +1,54 @@
-# Hi 👋, I'm Sidonie
+# Salut, je m'appelle **Prince**! 👋  
 
-A passionate Full-Stack developer from Cameroon
+**Software Engineering & Product Strategy** 🚀
 
-![Profile views](https://img.shields.io/badge/Profile%20views-204-blue)
+J’aide **startups, PME, ONG & porteurs de projets à impact** à **concevoir, développer et lancer des produits tech** qui réussissent.
 
-- 🧑‍💻 I'm currently working on SysPharma
-- 📚 I'm currently learning Spring batch, Spring security...
-- 🤝 I'm looking to collaborate on Ensitech
-- 💬 Ask me about Java, Spring 3, Angular 17/21, Api Rest, swagger-ul...
-- 📧 How to reach me: [sidonieDjuissifohouo@gmail.com](mailto:sidonieDjuissifohouo@gmail.com)
+💡 Passionné par la création de solutions utiles et durables.
 
----
+🤝 Ouvert aux collaborations et projets à fort impact.
 
-## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidonie-djuiSSI-fohouo/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/sidoniedjui)
+-----------------------------
 
----
+### 📝 Blog personnel :  
+Plonge dans mes réflexions et découvertes sur mon blog :  
+➡️ [Visitez mon blog](https://www.princekouame.com/blog)
 
-## Languages and Tools:
 
-<!-- Logos en ligne -->
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellijoriginal.svg" alt="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</div>
+### Ma stack technique :  
+-----------------------------
 
----
+#### Frontend :
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Most Used Languages
+#### Backend :
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SidonieGit&layout=compact&theme=react-dark&hide_border=false&langs_count=8&card_width=400)
+#### Bases de données :
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pocketbase](https://img.shields.io/badge/Pocketbase-000000?style=for-the-badge&logo=pocketbase&logoColor=white)
 
-## Sidonie DJUISSI FOHOUO's GitHub Stats
+#### Outils API :
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-3EB8EF?style=for-the-badge&logo=thunderclient&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SidonieGit&show_icons=true&theme=react-dark&hide_border=false&count_private=true)
+#### Autres :
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black)
+
+### 📈 Statistiques GitHub :  
+[![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=radical)](https://github.com/kouame09)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kouame09&layout=compact&theme=radical)](https://github.com/kouame09)
+
+
