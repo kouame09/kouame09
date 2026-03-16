@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  I specialize in <b>Software Engineering & Product</b>. 
-  I help impact-driven founders design, develop, and launch tech products aligned with their goals. My edge? I master the entire product value chain-from business strategy to communication-ensuring every line of code fuels your project's growth.
+  I specialize in <b>Software Engineering & Product. </b>
+  I help impact-driven founders design, develop, and launch tech products aligned with their goals. 
+  My edge? I master the entire product value chain-from business strategy to communication-ensuring every line of code fuels your project's growth.
 </p>
 
 
@@ -22,9 +23,9 @@
         <h3> About Me</h3>
         <p>
           🌱 I build <b>useful, sustainable, and high-impact solutions</b>.<br>
-          🚀 <b>Engineering:</b> Robust and scalable fullstack development.<br>
-          💡 <b>Product Strategy:</b> Market analysis, MVP de-risking, and ROI-focused vision.<br>
-          📢 <b>Product Communication:</b> Technical copywriting and brand positioning.<br>
+          🚀 <b>Engineering :</b> Robust and scalable fullstack development.<br>
+          💡 <b>Product Strategy :</b> Market analysis, MVP de-risking, and ROI-focused vision.<br>
+          📢 <b>Product Communication :</b> Technical copywriting and brand positioning.<br>
           📝 Read my articles on <a href="https://www.princekouame.com/blog">my website</a>.
         </p>
         <br>
