@@ -31,8 +31,8 @@
         <p>
           🌱 I build <b>useful, sustainable, and high-impact solutions</b>.<br>
           🚀 <b>Engineering:</b> Robust and scalable fullstack development.<br>
-          💡 <b>Strategy:</b> Market analysis, MVP de-risking, and ROI-focused vision.<br>
-          📢 <b>Communication:</b> Technical copywriting and brand positioning.<br>
+          💡 <b>Product Strategy:</b> Market analysis, MVP de-risking, and ROI-focused vision.<br>
+          📢 <b>Product Communication:</b> Technical copywriting and brand positioning.<br>
           📝 Read my articles on <a href="https://www.princekouame.com/blog">my personal blog</a>.
         </p>
         <br>
