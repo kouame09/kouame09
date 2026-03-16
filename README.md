@@ -3,6 +3,10 @@
 </p>
 
 <h1 align="center">Salut 👋 Je suis Prince</h1>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Code%20is%20where%20art%20meets%20logic.&theme=tokyonight" alt="Quote" />
+</p>
+
 <hr>
 
 <p align="center">
@@ -16,33 +20,30 @@
 <br>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <table border="0">
     <tr>
-      <td width="60%" valign="top">
-        <h3 align="left"><code>&gt; ./about_me.sh</code> 🚀</h3>
-        <p align="left">
-          <code>[🌱]</code> Je conçois des <b>solutions utiles, durables et éco-responsables</b>.<br><br>
-          <code>[⚙️]</code> <b>Engineering :</b> Dev fullstack robuste, architectures API scalables & bots interactifs.<br><br>
-          <code>[💡]</code> <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.<br><br>
-          <code>[📢]</code> <b>Communication :</b> Copywriting technique et positionnement produit.
+      <td width="55%" valign="top">
+        <img src="https://img.shields.io/badge/MISSION-SYSTEM_ACTIVE-blue?style=for-the-badge" alt="Status" />
+        <br><br>
+        <p>
+          🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.<br><br>
+          🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.<br><br>
+          💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.<br><br>
+          📢 <b>Communication :</b> Copywriting technique et positionnement.<br><br>
+          📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog"><b>mon blog personnel</b></a>.
         </p>
-        
-        <p align="left">
-          <a href="https://www.princekouame.com/blog">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=38B2AC&center=false&vCenter=true&lines=cat+%2Fvar%2Flog%2Fblog.txt;Read+my+latest+articles...;Exploring+Tech+%26+Product...&width=400" alt="Blog Typing SVG" />
-          </a>
-        </p>
-        
         <br>
-        
-        <h3 align="left"><code>&gt; ping contacts</code> 📡</h3>
-        <p align="left">
-          <a href="mailto:hello@princekouame.com"><img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" /></a>
-          <a href="https://linkedin.com/in/princekouame"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        </p>
+        <img src="https://img.shields.io/badge/COMMUNICATION-CHANNELS-7159c1?style=for-the-badge" alt="Connect" />
+        <br><br>
+        <a href="mailto:hello@princekouame.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://linkedin.com/in/princekouame">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
       </td>
-      <td width="40%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" alt="Developer Illustration" width="350" />
+      <td width="45%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" alt="Developer Illustration" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" />
       </td>
     </tr>
   </table>
