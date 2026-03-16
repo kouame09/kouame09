@@ -51,7 +51,7 @@
 <h3 align="center"> Languages & Tools I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,typescript,redux,tailwind,bootstrap,github,git,nodejs,express,firebase,supabase,prisma,mongodb,mysql,postman,python,fastapi&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,typescript,redux,tailwind,bootstrap,github,git,nodejs,express,firebase,supabase,prisma,mongodb,mysql,powershell,stackoverflow,postman,python,fastapi&perline=8" />
   </a>
 </p>
 
