@@ -38,7 +38,7 @@
         </p>
       </td>
       <td width="400" align="right" valign="center">
-        <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--software-programming-man-working-on-laptop-pack-people-illustrations-4545536.png" width="350" />
+        <img src="https://i.pinimg.com/1200x/29/dd/db/29dddbb74db0c68adc5358271281e03a.jpg" width="350" />
       </td>
     </tr>
   </table>
