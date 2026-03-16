@@ -15,35 +15,35 @@
 
 <br>
 
-<div align="left">
-  <table border="0">
-    <tr>
-      <td width="550" align="left" valign="top">
-        <h3>💫 À propos de moi</h3>
-        <p>
-          🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.<br>
-          🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.<br>
-          💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.<br>
-          📢 <b>Communication :</b> Copywriting technique et positionnement.<br>
-          📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog">mon blog personnel</a>.
-        </p>
-        <br>
-        <h3>⚡ Connectons-nous</h3>
-        <p>
-          <a href="mailto:hello@princekouame.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-          </a>
-          <a href="https://linkedin.com/in/princekouame">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-          </a>
-        </p>
-      </td>
-      <td width="400" align="right" valign="center">
-        <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--software-programming-man-working-on-laptop-pack-people-illustrations-4545536.png" width="350" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>💫 À propos de moi</h3>
+      <p align="left">
+        🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.<br><br>
+        🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.<br>
+        💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.<br>
+        📢 <b>Communication :</b> Copywriting technique et positionnement.<br>
+        📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog">mon blog personnel</a>.
+      </p>
+      <br>
+      <h3>⚡ Connectons-nous</h3>
+      <p align="left">
+        <a href="mailto:hello@princekouame.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://linkedin.com/in/princekouame">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="right" valign="middle">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-development-illustration-download-in-svg-png-gif-file-formats--programming-logo-coding-man-with-laptop-pack-network-communication-illustrations-4545532.png" width="380" />
+    </td>
+  </tr>
+</table>
 
 ---
 
