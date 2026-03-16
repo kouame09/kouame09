@@ -6,7 +6,8 @@
 <hr>
 
 <p align="center">
-  Je suis spécialisé en <b>Software Engineering & Product Engineering</b>. J’aide les porteurs de projets à impact à concevoir, développer et lancer leurs produits tech en accord avec leurs objectifs. Ma particularité ? Je maîtrise l'ensemble de la chaîne de valeur du produit : de la stratégie business à la communication, pour m'assurer que chaque ligne de code serve la croissance de votre projet.
+  Je suis spécialisé en <b>**Software Engineering & Product Engineering**. </b>
+  J’aide les porteurs de projets à impact à concevoir, développer et lancer leurs produits tech en accord avec leurs objectifs. Ma particularité ? Je maîtrise l'ensemble de la chaîne de valeur du produit : de la stratégie business à la communication, pour m'assurer que chaque ligne de code serve la croissance de votre projet.
 </p>
 
 <p align="center">
