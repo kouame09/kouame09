@@ -5,12 +5,7 @@
 <h1 align="center">Hi 👋 I'm Prince</h1>
 <hr>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=kouame09&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -18,9 +13,6 @@
   I help impact-driven founders design, develop, and launch tech products aligned with their goals. My edge? I master the entire product value chain-from business strategy to communication-ensuring every line of code fuels your project's growth.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kouame09&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="Profile Views" />
-</p>
 
 <br>
 <div align="left">
