@@ -15,7 +15,7 @@
 
 <p align="center">
   I specialize in <b>Software Engineering & Product</b>. 
-  I help impact-driven founders design, develop, and launch tech products aligned with their goals. My edge? I master the entire product value chain—from business strategy to communication—ensuring every line of code fuels your project's growth.
+  I help impact-driven founders design, develop, and launch tech products aligned with their goals. My edge? I master the entire product value chain-from business strategy to communication-ensuring every line of code fuels your project's growth.
 </p>
 
 <p align="center">
