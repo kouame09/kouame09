@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/7e/05/8d/7e058d01d8ee1303f1eeb7d92a7b3c0c.jpg" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/3b/ad/fb/3badfbc1775429a07e102fc587fc5a37.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Salut 👋 Je suis Prince</h1>
