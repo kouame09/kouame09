@@ -16,26 +16,33 @@
 <br>
 
 <div align="center">
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <td width="60%">
-        <h3>💫 À propos de moi</h3>
-        <ul>
-          <li>🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.</li>
-          <li>🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.</li>
-          <li>💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.</li>
-          <li>📢 <b>Communication :</b> Copywriting technique et positionnement.</li>
-          <li>📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog">mon blog personnel</a>.</li>
-        </ul>
+      <td width="60%" valign="top">
+        <h3 align="left"><code>&gt; ./about_me.sh</code> 🚀</h3>
+        <p align="left">
+          <code>[🌱]</code> Je conçois des <b>solutions utiles, durables et éco-responsables</b>.<br><br>
+          <code>[⚙️]</code> <b>Engineering :</b> Dev fullstack robuste, architectures API scalables & bots interactifs.<br><br>
+          <code>[💡]</code> <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.<br><br>
+          <code>[📢]</code> <b>Communication :</b> Copywriting technique et positionnement produit.
+        </p>
+        
+        <p align="left">
+          <a href="https://www.princekouame.com/blog">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=38B2AC&center=false&vCenter=true&lines=cat+%2Fvar%2Flog%2Fblog.txt;Read+my+latest+articles...;Exploring+Tech+%26+Product...&width=400" alt="Blog Typing SVG" />
+          </a>
+        </p>
+        
         <br>
-        <h3>Connectons-nous :</h3>
-        <p>
-          <a href="mailto:hello@princekouame.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-          <a href="https://linkedin.com/in/princekouame"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        
+        <h3 align="left"><code>&gt; ping contacts</code> 📡</h3>
+        <p align="left">
+          <a href="mailto:hello@princekouame.com"><img src="https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Gmail" /></a>
+          <a href="https://linkedin.com/in/princekouame"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         </p>
       </td>
-      <td width="40%" align="center">
-        <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" alt="Developer Illustration" width="400" />
+      <td width="40%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" alt="Developer Illustration" width="350" />
       </td>
     </tr>
   </table>
