@@ -30,8 +30,8 @@
         <br>
         <h3>Connectons-nous :</h3>
         <p>
-          <a href="mailto:ton_email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-          <a href="https://linkedin.com/in/ton_profil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+          <a href="mailto:hello@princekouame.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+          <a href="https://linkedin.com/in/princekouame"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
         </p>
       </td>
       <td width="40%" align="center">
