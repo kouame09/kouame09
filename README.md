@@ -71,6 +71,12 @@
 
 <br>
 
+<h3 align="center">🌱 Mon Statut GitHub</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouame09&layout=compact&theme=tokyonight&hide_border=true&bg_color=20232a" width="48%" />
+</div>
+
 <h3 align="center">Soutenez-moi ☕</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/princekouame">
