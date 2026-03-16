@@ -4,6 +4,15 @@
 
 <h1 align="center">Salut 👋 Je suis Prince</h1>
 <hr>
+<h3 align="center">💻 Stack Technique Détaillée</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 <p align="center">
   Je suis spécialisé en <b>Software Engineering & Product Engineering.</b>
@@ -53,20 +62,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,typescript,redux,tailwind,bootstrap,github,git,nodejs,express,firebase,supabase,prisma,mongodb,mysql,postman,python,fastapi&perline=8" />
   </a>
-</p>
-
-<br>
-
-<br>
-
-<h3 align="center">💻 Stack Technique Détaillée</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 <br>
