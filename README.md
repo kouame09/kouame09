@@ -3,10 +3,6 @@
 </p>
 
 <h1 align="center">Salut 👋 Je suis Prince</h1>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=Code%20is%20where%20art%20meets%20logic.&theme=tokyonight" alt="Quote" />
-</p>
-
 <hr>
 
 <p align="center">
@@ -20,33 +16,29 @@
 <br>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="55%" valign="top">
-        <img src="https://img.shields.io/badge/MISSION-SYSTEM_ACTIVE-blue?style=for-the-badge" alt="Status" />
-        <br><br>
-        <p>
-          🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.<br><br>
-          🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.<br><br>
-          💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.<br><br>
-          📢 <b>Communication :</b> Copywriting technique et positionnement.<br><br>
-          📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog"><b>mon blog personnel</b></a>.
-        </p>
-        <br>
-        <img src="https://img.shields.io/badge/COMMUNICATION-CHANNELS-7159c1?style=for-the-badge" alt="Connect" />
-        <br><br>
-        <a href="mailto:hello@princekouame.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://linkedin.com/in/princekouame">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </td>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" alt="Developer Illustration" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);" />
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td width="60%">
+        <h3>💫 À propos de moi</h3>
+        <ul>
+          <li>🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.</li>
+          <li>🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.</li>
+          <li>💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.</li>
+          <li>📢 <b>Communication :</b> Copywriting technique et positionnement.</li>
+          <li>📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog">mon blog personnel</a>.</li>
+        </ul>
+        <br>
+        <h3>Connectons-nous :</h3>
+        <p>
+          <a href="mailto:hello@princekouame.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+          <a href="https://linkedin.com/in/princekouame"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" alt="Developer Illustration" width="400" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
