@@ -6,7 +6,7 @@
 <hr>
 
 <p align="center">
-  Je suis spécialisé en <b>**Software Engineering & Product Engineering**. </b>
+  Je suis spécialisé en <b>Software Engineering & Product Engineering.</b>
   J’aide les porteurs de projets à impact à concevoir, développer et lancer leurs produits tech en accord avec leurs objectifs. Ma particularité ? Je maîtrise l'ensemble de la chaîne de valeur du produit : de la stratégie business à la communication, pour m'assurer que chaque ligne de code serve la croissance de votre projet.
 </p>
 
@@ -45,8 +45,6 @@
   </table>
 </div>
 
----
-
 
 <br>
 
@@ -58,12 +56,6 @@
 </p>
 
 <br>
-
-<h3 align="center">⭐ Meilleurs Projets</h3>
-<div align="center">
-  <a href="https://github.com/kouame09/fincore-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kouame09&repo=fincore-engine&theme=tokyonight&hide_border=true&bg_color=20232a" width="48%" /></a>
-  <a href="https://github.com/kouame09/bot-patriarche"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kouame09&repo=bot-patriarche&theme=tokyonight&hide_border=true&bg_color=20232a" width="48%" /></a>
-</div>
 
 <br>
 
