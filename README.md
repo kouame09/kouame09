@@ -15,31 +15,35 @@
 
 <br>
 
+---
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h3>💫 À propos de moi</h3>
-        <ul>
-          <li>🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.</li>
-          <li>🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.</li>
-          <li>💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.</li>
-          <li>📢 <b>Communication :</b> Copywriting technique et positionnement.</li>
-          <li>📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog">mon blog personnel</a>.</li>
-        </ul>
-        <br>
-        <h3>Connectons-nous :</h3>
-        <p>
-          <a href="mailto:hello@princekouame.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-          <a href="https://linkedin.com/in/princekouame"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" alt="Developer Illustration" width="400" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/7kcoding/7kcoding/main/images/developer.gif" width="300" />
+  
+  <h3>💫 À propos de moi</h3>
+  
+  <p>
+  🌱 Je crée des <b>solutions utiles, durables et à fort impact</b>.<br>
+  🚀 <b>Engineering :</b> Développement fullstack robuste et scalable.<br>
+  💡 <b>Stratégie :</b> Analyse de marché, MVP de-risking et vision ROI.<br>
+  📢 <b>Communication :</b> Copywriting technique et positionnement.<br>
+  📝 Retrouvez mes articles sur <a href="https://www.princekouame.com/blog">mon blog personnel</a>.
+  </p>
+
+  <br>
+
+  <h3>⚡ Connectons-nous</h3>
+  <p>
+    <a href="mailto:hello@princekouame.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/princekouame">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 </div>
+
+---
 
 <br>
 
