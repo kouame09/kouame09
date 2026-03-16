@@ -54,7 +54,7 @@
 <h3 align="center">📚 Langages & Outils que je manipule</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,typescript,redux,tailwind,bootstrap,nodejs,express,firebase,supabase,prisma,mongodb,mysql,bruno,python,fastapi&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,react,typescript,redux,tailwind,bootstrap,nodejs,express,firebase,supabase,prisma,mongodb,mysql,postman,python,fastapi&perline=8" />
   </a>
 </p>
 
