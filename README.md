@@ -19,13 +19,13 @@
   <table border="0">
     <tr>
       <td width="550" align="left" valign="top">
-        <h3>💫 About Me</h3>
+        <h3> About Me</h3>
         <p>
           🌱 I build <b>useful, sustainable, and high-impact solutions</b>.<br>
           🚀 <b>Engineering:</b> Robust and scalable fullstack development.<br>
           💡 <b>Product Strategy:</b> Market analysis, MVP de-risking, and ROI-focused vision.<br>
           📢 <b>Product Communication:</b> Technical copywriting and brand positioning.<br>
-          📝 Read my articles on <a href="https://www.princekouame.com/blog">my personal blog</a>.
+          📝 Read my articles on <a href="https://www.princekouame.com/blog">my website</a>.
         </p>
         <br>
         <h3>⚡ Let's Connect</h3>
@@ -56,7 +56,7 @@
 
 <br>
 
-<h3 align="center">🌱 My GitHub Stats</h3>
+<h3 align="center"> My GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kouame09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouame09&layout=compact&theme=tokyonight&hide_border=true&bg_color=20232a" width="48%" />
