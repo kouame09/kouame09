@@ -1,32 +1,60 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Prince and I'm a software developer, from Côte d'Ivoire 🇨🇮. </p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+<h1 align="left">Hey 👋 I'm Prince Kouamé</h1>
 
 <p align="left">
-✨ Creating bugs since 2023<br>
-📚 I'm currently learning English and building cool open-source projects<br>
-🎯 Goals: become a better developer, improve my communication skills, and launch impactful products<br>
-🎲 Fun fact: I enjoy discovering new horizons, watching documentaries about geopolitics, science, discoveries, and how the world evolves
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E676&width=520&lines=Digital+solutions+architect;Building+fast+UIs+%26+products+people+use;Creating+bugs+since+2023+%F0%9F%90%9B;%3E+git+commit+-m+%22ship+it%22" alt="Typing SVG" />
 </p>
 
-###
+```ts
+const prince = {
+  role: "Software developer / Digital solutions architect",
+  location: "Côte d'Ivoire 🇨🇮",
+  codingSince: 2023,
+  currentlyLearning: ["Product engineering", "System design", "Open source"],
+  currentlyBuilding: "cool open-source projects",
+  goals: [
+    "become a better developer",
+    "improve my communication skills",
+    "launch impactful products",
+  ],
+  funFact: "Documentaries on geopolitics, science & discoveries 🌍🔬",
+  askMeAbout: ["React", "TypeScript", "Astro", "Supabase", "Node.js"],
+  lifeMotto: () => "while (alive) { learn(); build(); ship(); }",
+};
+```
 
-<h2 align="left">I work with</h2>
-
-###
+### 🛠️ Tech stack
 
 <div align="left">
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,nodejs,react,typescript,astro,redux,tailwind,bootstrap,github,git,nodejs,express,npm,firebase,supabase,prisma,vite,vercel,mongodb,mysql,powershell,stackoverflow,postman,vercel,notion,figma,docker,cloudflare,markdown,python,fastapi&perline=8" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,astro,tailwind,bootstrap,vite,nodejs,express,python,fastapi,firebase,supabase,prisma,mongodb,mysql,docker,cloudflare,vercel,git,github,vscode,powershell,postman,figma,notion,npm&perline=10" />
   </a>
 </div>
 
-###
+### 🚧 Currently
+
+```bash
+$ git log --oneline -n 4
+a3f9c21 (HEAD -> main) feat: ship something people actually use
+7be41d0 refactor: make the UI faster, again
+c92e8a5 docs: learn in public, write in English
+1d04b7f fix: bugs (new ones included, free of charge)
+
+$ git status
+On branch main
+Your head is full of ideas.
+  modified:   side-projects/open-source
+  modified:   skills/system-design
+  new file:   products/impactful-one.ts
+```
+
+### 📫 Reach me
+
+```bash
+$ curl -s https://www.princekouame.com
+$ echo "hello@princekouame.com" | mail -s "Hey Prince 👋"
+# or just say hi 👋
+```
+
+<p align="left">
+  <a href="mailto:hello@princekouame.com">📧 hello@princekouame.com</a>
+</p>
