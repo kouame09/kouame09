@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Prince</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E676&width=520&lines=Digital+solutions+architect;Building+fast+UIs+%26+products+people+use;Creating+bugs+since+2023+%F0%9F%90%9B;%3E+git+commit+-m+%22ship+it%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00E676&width=520&lines=Digital+solutions+architect;Building+fast+UIs+%26+products+people+use;Creating+bugs+since+2024+%F0%9F%90%9B;%3E+git+commit+-m+%22ship+it%22" alt="Typing SVG" />
 </p>
 
 ```ts
