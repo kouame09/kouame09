@@ -8,7 +8,7 @@
 const prince = {
   role: "Software developer / Digital solutions architect",
   location: "Côte d'Ivoire 🇨🇮",
-  codingSince: 2023,
+  codingSince: 2020,
   currentlyLearning: ["Product engineering", "System design", "Open source"],
   currentlyBuilding: "cool open-source projects",
   goals: [
