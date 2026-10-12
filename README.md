@@ -30,6 +30,24 @@ const prince = {
   </a>
 </div>
 
+### 🚀 Featured projects
+
+```ts
+const projects = [
+  { name: "Feedlys",   type: "SaaS",        status: "live 🟢" },
+  { name: "225OS",     type: "Open source", status: "live 🟢" },
+  { name: "Lumoojob",  type: "Job board",   status: "live 🟢" },
+  { name: "Qsus",      type: "Desktop app", status: "live 🟢" },
+];
+```
+
+| Project | What it does | Link |
+|---|---|---|
+|  **Feedlys** | Collect, analyze and use customer feedback automatically to make better product decisions | [feedlys.com](https://www.feedlys.com/) |
+|  **225OS** | Showcase of open-source projects built by Ivorian tech talents | [225os.com](https://www.225os.com/) |
+|  **Lumoojob** | First Ivorian platform dedicated to spontaneous job applications | [lumoojob.com](https://www.lumoojob.com/) |
+|  **Qsus** | Lightweight, ultra-fast, 100% local-first workspace for students (Windows, macOS & Linux) | [qsus.princekouame.com](https://qsus.princekouame.com/) |
+
 ### 🚧 Currently
 
 ```bash
@@ -54,7 +72,3 @@ $ curl -s https://www.princekouame.com
 $ echo "hello@princekouame.com" | mail -s "Hey Prince 👋"
 # or just say hi 👋
 ```
-
-<p align="left">
-  <a href="mailto:hello@princekouame.com">📧 hello@princekouame.com</a>
-</p>
